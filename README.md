@@ -1,0 +1,4 @@
+sr-patchday
+===========
+
+Shadowrun campaign.
